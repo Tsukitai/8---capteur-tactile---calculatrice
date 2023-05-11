@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="zRy3j/x4csks2.R,]#%?">Nombre1</variable><variable id="JaZaN|x/M6)Wmo$*luPP">Nombre2</variable></variables><block type="pxt-on-start" id="wSFEg669km{gHRrpN}kW" x="20" y="20"></block><block type="device_forever" id=".$QjbuHwE0PL$]Dl4dv;" x="433" y="15"><statement name="HANDLER"><block type="device_show_leds" id="y#Y-~2a49m9E~J?{@KQF"><field name="LEDS">`
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        . . # . . 
+        . . # . .
+        `</field></block></statement></block><block type="device_button_event" id="i)8psUub%~iQ!sHkWs$C" x="85" y="344"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="variables_set" id="uI$q%]Q5)3KX55N$;lRM"><field name="VAR" id="zRy3j/x4csks2.R,]#%?">Nombre1</field><value name="VALUE"><shadow type="math_number" id="OS,m(![O6S?jDSJMdE^!"><field name="NUM">0</field></shadow></value></block></statement></block><block type="device_button_event" id="r*{;Es36}v@P27|?{cSn" x="90" y="530"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="variables_change" id="pPB08jeMjaHCB]u2:hgD"><field name="VAR" id="JaZaN|x/M6)Wmo$*luPP">Nombre2</field><value name="VALUE"><shadow type="math_number" id="a~elghO3{-PXaWC#2Tqi"><field name="NUM">1</field></shadow></value></block></statement></block></xml>
